@@ -69,7 +69,7 @@ void cauC(char s[])
 
 //Cau D
 //Ham Xoa
-void Del(char s[90],int DelPos)
+void Xoa(char s[90],int DelPos)
 {
 	int n=strlen(s);
     for(int i=DelPos;i<n;i++)
