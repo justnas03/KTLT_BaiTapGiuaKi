@@ -5,7 +5,7 @@
 #include <math.h>
 using namespace std;
 
-void CauA(char s[])
+void CauDDA(char s[])
 {
 	char c[1000];
 	char b[1000];
