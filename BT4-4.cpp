@@ -4,7 +4,7 @@
 
 using namespace std;
 
-void Insert(char *s, char *a, int pos){
+void Insertion(char *s, char *a, int pos){
 	char c[1000];
 	strcpy(c,s+pos);
 	
